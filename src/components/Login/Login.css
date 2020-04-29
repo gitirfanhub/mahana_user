@@ -1,0 +1,66 @@
+.data
+{
+    margin-top: -15px;
+}
+
+.bodyView
+{
+    height: 657px;
+	background-color: #1c2767;
+}
+
+.posBox
+{
+	margin-top: 180px;
+}
+
+.boxModal
+{
+	padding: 20px;
+}
+
+.boxRowFont
+{
+	background-color: #a0bbec;
+    border: 3px solid #efefef;
+}
+
+.labelFont
+{
+	color: black;
+    margin-left: 13px;
+}
+
+
+.inputFont
+{
+	background-color: #c0c7f1;
+    color: black;
+    border: 2px solid #a0bbec;
+    float: right;
+    padding:4px;
+    margin-right: 10px;
+    width: 220px;
+}
+
+.imageSize
+{
+	height: 30px;
+	width: 30px;
+    background-color: #a0bbec;
+}
+
+.buttonFont
+{
+	margin-right: 0px;
+    margin-left: 88px;
+    margin-top: 10px;
+    padding-right: 35px;
+    padding-left: 35px;
+    background-color: #4747e8;
+    color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 25px;
+    cursor: pointer;
+}

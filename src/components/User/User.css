@@ -1,0 +1,167 @@
+.data
+{
+    margin-top: -15px;
+}
+
+.boxDesign
+{
+    height: 78px;
+    border: 1px solid grey;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 4px 4px 4px 4px grey;
+    background-color: #819e7ca3;
+}
+
+.boxRow
+{
+    background-color: aliceblue; 
+}
+
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.imageSize2
+{
+    height: 22px;
+    width: 22px;
+    margin: 2px;
+    background-color: azure;
+    display: inline-block;
+}
+
+.btn {
+    padding: 0px;
+    padding-left: 0px;
+    display: inline-block;
+    font-weight: 400;
+    color: #eff2f5;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    background-color: transparent; 
+    border: 1px solid transparent; 
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #819e7ca3;
+    border-color: #819e7ca3;
+}
+
+.searchBox
+{
+    border: 4px solid azure;
+    background-color: azure;
+    padding: 0px;
+    color: black;
+}
+
+.seacrhFont
+{
+    padding: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    border: 2px solid azure;
+    background-color: azure;
+    width: 210%;
+    color: black;
+    display: inline-block;
+}
+
+.inline
+{
+    display: inline-block;
+}
+
+.order
+{
+    border: 2px solid #b1b1d8;
+    padding: 0px 10px;
+    background-color: #38375d;
+    color: #dedaea;
+    display: inline-block;
+    padding-top: 11px;
+}
+
+
+.box
+{
+    height: 200px;
+    width: 51px;
+    border: 3px solid #1c2767;
+    margin: 7px;
+    background-color: #1c2767;
+    padding: 0px;
+
+}
+
+.box1
+{
+    margin-left: 50px;
+    padding: 0px;
+}
+
+.boxer_slide
+{
+    background-color: black;
+    padding: 3px;
+    margin: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height: 50px;
+    width: 45px;
+    border-radius: 25px;
+    border: 2px solid #928686;
+    box-shadow: 2px -3px #92868
+}
+
+.imgSzBox
+{
+    height: 196px;
+    width: 135px;
+}
+
+.padding_block_two
+{
+    margin-top: 10px;
+    height: 0px;
+}
+
+.block_one
+{
+    height: 700px;
+    background-color: #4c596d;
+}
+
+.block_two
+{
+    height: 700px;
+    background-color: #1c2767;
+}
+
+.block_three
+{
+    height: 700px;
+    background-color: #a1c2ca;
+}
+
+
+.imageSize
+{
+    height: 30px;
+    width: 30px;
+    margin: 2px;
+    background-color: black;
+    padding-bottom: 2px;
+}
